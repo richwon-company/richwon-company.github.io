@@ -85,12 +85,6 @@ const config: Config = {
           position: 'left',
           label: '위키',
         },
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
         { to: '/blog', label: 'Blog', position: 'left' }
       ],
     },
@@ -101,7 +95,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: '위키',
               to: '/docs/intro',
             },
           ],
