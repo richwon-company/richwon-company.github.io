@@ -16,14 +16,10 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        {/* <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div> */}
+        <p className="hero__subtitle">
+          리치원 컴퍼니 내부 구성원을 위한 정보 위키 & 교육 자료<br />
+          "함께 성장하는 우리, 모두가 쉽게 찾는 지식의 공간"
+        </p>
       </div>
     </header>
   );

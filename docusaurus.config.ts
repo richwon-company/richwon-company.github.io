@@ -81,6 +81,12 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
+          sidebarId: 'infoSidebar',
+          position: 'left',
+          label: '위키',
+        },
+        {
+          type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Tutorial',
