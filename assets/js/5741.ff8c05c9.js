@@ -1,0 +1,1 @@
+(self.webpackChunkrich_wiki=self.webpackChunkrich_wiki||[]).push([[5741],{5741:()=>{}}]);
