@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrich_wiki=self.webpackChunkrich_wiki||[]).push([[8264],{8264:(e,i,c)=>{c.d(i,{createRadarServices:()=>r.f});var r=c(7342);c(1028)}}]);

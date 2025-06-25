@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrich_wiki=self.webpackChunkrich_wiki||[]).push([[7386],{7386:(e,c,i)=>{i.d(c,{createPacketServices:()=>k.$});var k=i(4273);i(1028)}}]);

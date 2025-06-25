@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrich_wiki=self.webpackChunkrich_wiki||[]).push([[3424],{3424:(e,c,i)=>{i.d(c,{createArchitectureServices:()=>r.S});var r=i(4318);i(1028)}}]);
