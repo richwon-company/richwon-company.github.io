@@ -108,15 +108,15 @@ sidebar_position: 1
 
 ```markdown
 [링크 텍스트](https://example.com)
-[내부 링크](./다른-파일.md)
-[같은 페이지 링크](#제목2)
+[내부 링크](./website-management-guide)
+[같은 페이지 링크](#체크리스트)
 ```
 
 **실제 결과:**
 
-[링크 텍스트](https://example.com)
-[내부 링크](./다른-파일.md)
-[같은 페이지 링크](#제목2)
+[링크 텍스트](https://example.com)  
+[내부 링크](./website-management-guide)  
+[같은 페이지 링크](#체크리스트)  
 
 ### 이미지
 
