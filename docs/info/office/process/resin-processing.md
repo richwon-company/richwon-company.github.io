@@ -1,11 +1,10 @@
 ---
 title: 수지가공
-description: 아크릴, PC 등 다양한 수지(플라스틱) 소재를 절단, 접착, 가공하는 기술입니다.
+description: 다양한 플라스틱/수지 소재를 절단, 접착, 가공하는 기술입니다.
 keywords:
   - 수지가공
-  - 플라스틱 가공
   - 아크릴
-  - PC
+  - 폴리카보네이트
   - BAK
   - BMC
   - PVC
@@ -13,11 +12,10 @@ keywords:
   - SMC
 sidebar_label: 수지가공
 sidebar_position: 6
-image: /img/machine/수지가공_아이콘.png
 tags:
   - 수지가공
   - 아크릴
-  - PC
+  - 폴리카보네이트
   - BAK
   - BMC
   - PVC
@@ -25,27 +23,40 @@ tags:
   - SMC
 ---
 
-아크릴, PC 등 다양한 수지(플라스틱) 소재를 절단, 접착, 가공하는 기술입니다.
-
----
-
-## 적용 가능한 소재
-
-| 소재명         | 약어      |
-| -------------- | --------- |
-| 아크릴         | AC        |
-| 폴리카보네이트 | PC        |
-| BAK            | BAK       |
-| BMC            | BMC       |
-| PVC            | PVC       |
-| 에폭시글라스   |           |
-| SMC            | SMC       |
-
----
-
 ## 주요 용도/적용 예시
 
-- 각종 플라스틱 명판, 상자, 커버, 절곡/접착 제품 제작
+- 각종 플라스틱/수지 부품, 상자, 패널 등 제작
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="ac" label="아크릴(AC)" default>
+    - 아크릴 제품 (수지가공)
+  </TabItem>
+  <TabItem value="pc" label="폴리카보네이트(PC)">
+    - PC 제품 (수지가공)
+  </TabItem>
+  <TabItem value="bak" label="BAK">
+    - BAK 제품 (수지가공)
+  </TabItem>
+  <TabItem value="bmc" label="BMC">
+    - BMC 제품 (수지가공)
+  </TabItem>
+  <TabItem value="pvc" label="PVC">
+    - PVC 제품 (수지가공)
+  </TabItem>
+  <TabItem value="epoxy" label="에폭시글라스">
+    - 에폭시글라스 제품 (수지가공)
+  </TabItem>
+  <TabItem value="smc" label="SMC">
+    - SMC 제품 (수지가공)
+  </TabItem>
+</Tabs>
 
 ---
 

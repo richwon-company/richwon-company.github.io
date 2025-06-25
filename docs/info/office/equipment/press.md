@@ -1,6 +1,23 @@
 ---
 title: 프레스
+description: 금속, 플라스틱, 아크릴 등 다양한 소재를 눌러 성형하거나 구멍을 뚫는 장비.
+keywords:
+  - 프레스
+  - 성형
+  - 펀칭
+  - 압착
+  - 금속
+  - 플라스틱
+  - 아크릴
+sidebar_label: 프레스
 sidebar_position: 24
+tags:
+  - 성형
+  - 펀칭
+  - 압착
+  - 금속
+  - 플라스틱
+  - 아크릴
 ---
 
 <div style={{textAlign:'center'}}>

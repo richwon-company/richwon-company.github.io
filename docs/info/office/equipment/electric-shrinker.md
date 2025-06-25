@@ -1,6 +1,18 @@
 ---
 title: 전동샤링기
+description: 판재(아크릴, 금속 등)를 전동으로 절단하는 장비.
+keywords:
+  - 전동샤링기
+  - 샤링기
+  - 절단
+  - 아크릴
+  - 금속
+sidebar_label: 전동샤링기
 sidebar_position: 19
+tags:
+  - 절단
+  - 아크릴
+  - 금속
 ---
 
 <div style={{textAlign:'center'}}>

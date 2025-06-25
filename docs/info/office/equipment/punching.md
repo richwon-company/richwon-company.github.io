@@ -1,6 +1,20 @@
 ---
 title: 펀칭기
+description: 금속, 플라스틱, 아크릴 등 다양한 소재에 구멍을 뚫는 장비.
+keywords:
+  - 펀칭기
+  - 펀칭
+  - 구멍 가공
+  - 금속
+  - 플라스틱
+  - 아크릴
+sidebar_label: 펀칭기
 sidebar_position: 23
+tags:
+  - 펀칭
+  - 금속
+  - 플라스틱
+  - 아크릴
 ---
 
 <div style={{textAlign:'center'}}>

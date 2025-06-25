@@ -1,33 +1,36 @@
 ---
 title: 부식
-description: 화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술입니다.
+description: 화학약품을 이용해 금속 표면을 미세하게 식각하는 가공 기술입니다.
 keywords:
   - 부식
-  - 에칭
   - 스테인리스 스틸
 sidebar_label: 부식
 sidebar_position: 5
-image: /img/machine/부식_아이콘.png
 tags:
   - 부식
   - 스테인리스 스틸
 ---
 
-화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술입니다.
-
----
-
-## 적용 가능한 소재
-
-| 소재명           | 약어 |
-| ---------------- | ---- |
-| 스테인리스 스틸  | SUS  |
+화학약품을 이용해 금속 표면을 미세하게 식각하는 가공 기술입니다.
 
 ---
 
 ## 주요 용도/적용 예시
 
-- 스테인리스 명판, 패널, 특수 부품 가공
+- 고급 명판, 산업용 패널, 내구성 요구 부품 등
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="sus" label="스테인리스 스틸(SUS)" default>
+    - SUS 명판 (부식)
+  </TabItem>
+</Tabs>
 
 ---
 

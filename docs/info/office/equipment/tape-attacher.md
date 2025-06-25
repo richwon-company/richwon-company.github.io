@@ -1,6 +1,17 @@
 ---
 title: 테프부착기
+description: 양면테이프, 접착 테이프 등을 판재나 부품에 부착하는 장비.
+keywords:
+  - 테프부착기
+  - 테이프 부착
+  - 판재
+  - 부품
+sidebar_label: 테프부착기
 sidebar_position: 22
+tags:
+  - 테이프 부착
+  - 판재
+  - 부품
 ---
 
 <div style={{textAlign:'center'}}>

@@ -13,7 +13,6 @@ keywords:
   - 하이박스
 sidebar_label: UV 인쇄
 sidebar_position: 2
-image: /img/machine/UV_인쇄기.jpg
 tags:
   - UV 인쇄
   - 알루미늄
@@ -25,28 +24,41 @@ tags:
   - 하이박스
 ---
 
-UV 경화 잉크로 다양한 소재에 직접 인쇄하는 평판 인쇄 기술입니다.
-
----
-
-## 적용 가능한 소재
-
-| 소재명             | 약어      |
-| ------------------ | --------- |
-| 알루미늄           | AL        |
-| 아크릴             | AC        |
-| 페놀               | PH        |
-| 폴리카보네이트     | PC        |
-| 스테인리스 스틸    | SUS       |
-| 시트지             |           |
-| 하이박스           | FI-BOX    |
-
----
-
 ## 주요 용도/적용 예시
 
 - 명판, 안내판, 패널 등 평판 인쇄물 제작
 - 특수 소재(시트지, 하이박스 등) 인쇄
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="al" label="알루미늄(AL)" default>
+    - 알루미늄 명판 (UV 인쇄)
+  </TabItem>
+  <TabItem value="ac" label="아크릴(AC)">
+    - 아크릴 명판 (UV 인쇄)
+  </TabItem>
+  <TabItem value="ph" label="페놀(PH)">
+    - 페놀 명판 (UV 인쇄)
+  </TabItem>
+  <TabItem value="pc" label="폴리카보네이트(PC)">
+    - PC 명판 (투명/강도)
+  </TabItem>
+  <TabItem value="sus" label="스테인리스 스틸(SUS)">
+    - SUS 명판 (내구성)
+  </TabItem>
+  <TabItem value="sheet" label="시트지">
+    - 시트지 명판 (다양한 색상)
+  </TabItem>
+  <TabItem value="fibox" label="하이박스(FI-BOX)">
+    - 하이박스 명판 (특수 용도)
+  </TabItem>
+</Tabs>
 
 ---
 

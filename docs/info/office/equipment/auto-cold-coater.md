@@ -1,6 +1,18 @@
 ---
 title: 반자동 콜드코팅기
+description: 인쇄물 표면을 보호하고 내구성을 높이기 위한 반자동 코팅 장비.
+keywords:
+  - 반자동 콜드코팅기
+  - 코팅기
+  - 코팅
+  - 명판
+  - 안내판
+sidebar_label: 반자동 콜드코팅기
 sidebar_position: 13
+tags:
+  - 코팅
+  - 명판
+  - 안내판
 ---
 
 <div style={{textAlign:'center'}}>

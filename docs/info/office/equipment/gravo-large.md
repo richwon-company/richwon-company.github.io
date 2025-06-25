@@ -1,6 +1,20 @@
 ---
 title: 그라보 대형조각기
+description: 대형 판재(아크릴, 금속 등)를 정밀하게 가공할 수 있는 CNC 조각기.
+keywords:
+  - 그라보 대형조각기
+  - CNC 조각
+  - 알루미늄
+  - 아크릴
+  - 금속
+  - 명판 제작
+sidebar_label: 그라보 대형조각기
 sidebar_position: 11
+tags:
+  - 조각
+  - 알루미늄
+  - 아크릴
+  - 금속
 ---
 
 <div style={{textAlign:'center'}}>

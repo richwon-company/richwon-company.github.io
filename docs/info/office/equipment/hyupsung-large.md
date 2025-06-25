@@ -1,6 +1,20 @@
 ---
 title: 협성 대형조각기
+description: 대형 판재(아크릴, 금속 등)를 정밀하게 가공할 수 있는 대형 CNC 조각기.
+keywords:
+  - 협성 대형조각기
+  - CNC 조각
+  - 알루미늄
+  - 아크릴
+  - 금속
+  - 명판 제작
+sidebar_label: 협성 대형조각기
 sidebar_position: 25
+tags:
+  - 조각
+  - 알루미늄
+  - 아크릴
+  - 금속
 ---
 
 <div style={{textAlign:'center'}}>

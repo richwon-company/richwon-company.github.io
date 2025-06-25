@@ -1,6 +1,17 @@
 ---
 title: 탭핑머신
+description: 금속, 플라스틱 등에 나사산(탭)을 내는 장비.
+keywords:
+  - 탭핑머신
+  - 탭 가공
+  - 금속
+  - 플라스틱
+sidebar_label: 탭핑머신
 sidebar_position: 21
+tags:
+  - 탭 가공
+  - 금속
+  - 플라스틱
 ---
 
 <div style={{textAlign:'center'}}>

@@ -8,29 +8,31 @@ keywords:
   - 하이박스
 sidebar_label: 스크린인쇄
 sidebar_position: 4
-image: /img/machine/스크린인쇄_아이콘.png
 tags:
   - 스크린인쇄
   - 스테인리스 스틸
   - 하이박스
 ---
 
-스크린(망사) 판을 이용해 잉크를 소재 위에 도포하는 인쇄 기술입니다.
-
----
-
-## 적용 가능한 소재
-
-| 소재명           | 약어   |
-| ---------------- | ------ |
-| 스테인리스 스틸  | SUS    |
-| 하이박스         | FI-BOX |
-
----
-
 ## 주요 용도/적용 예시
 
-- 산업용 패널, 특수 명판, 하이박스 인쇄
+- 산업용 패널, 특수 명판, 하이박스 인쇄 등
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="sus" label="스테인리스 스틸(SUS)" default>
+    - SUS 명판 (스크린 인쇄)
+  </TabItem>
+  <TabItem value="fibox" label="하이박스(FI-BOX)">
+    - 하이박스 명판 (스크린 인쇄)
+  </TabItem>
+</Tabs>
 
 ---
 

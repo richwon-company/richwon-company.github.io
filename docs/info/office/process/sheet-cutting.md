@@ -1,33 +1,36 @@
 ---
 title: 시트지커팅
-description: 시트지, 필름, 라벨 등 롤 형태의 소재를 원하는 모양대로 정밀하게 커팅하는 기술입니다.
+description: 시트지로 제작된 제품을 원하는 모양대로 커팅하는 가공 기술입니다.
 keywords:
   - 시트지커팅
   - 시트지
-  - 커팅
 sidebar_label: 시트지커팅
 sidebar_position: 7
-image: /img/machine/시트지_커팅기.jpeg
 tags:
   - 시트지커팅
   - 시트지
 ---
 
-시트지, 필름, 라벨 등 롤 형태의 소재를 원하는 모양대로 정밀하게 커팅하는 기술입니다.
-
----
-
-## 적용 가능한 소재
-
-| 소재명 | 약어 |
-| ------ | ---- |
-| 시트지 |      |
+시트지로 제작된 제품을 원하는 모양대로 커팅하는 가공 기술입니다.
 
 ---
 
 ## 주요 용도/적용 예시
 
-- 시트지 라벨, 스티커, 디자인 커팅 제품 제작
+- 각종 안내판, 장식, 라벨 등 커팅 제품 제작
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="sheet" label="시트지" default>
+    - 시트지 제품 (원하는 모양대로 커팅)
+  </TabItem>
+</Tabs>
 
 ---
 

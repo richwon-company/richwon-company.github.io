@@ -1,6 +1,18 @@
 ---
 title: 반자동샤링기
+description: 판재(아크릴, 금속 등)를 절단하는 반자동 샤링기.
+keywords:
+  - 반자동샤링기
+  - 샤링기
+  - 절단
+  - 아크릴
+  - 금속
+sidebar_label: 반자동샤링기
 sidebar_position: 14
+tags:
+  - 절단
+  - 아크릴
+  - 금속
 ---
 
 <div style={{textAlign:'center'}}>

@@ -1,6 +1,16 @@
 ---
 title: 아크릴 재단기
+description: 아크릴 판재를 원하는 크기와 형태로 정밀하게 재단하는 장비.
+keywords:
+  - 아크릴 재단기
+  - 아크릴
+  - 재단
+  - 명판 제작
+sidebar_label: 아크릴 재단기
 sidebar_position: 18
+tags:
+  - 재단
+  - 아크릴
 ---
 
 <div style={{textAlign:'center'}}>

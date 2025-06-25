@@ -1,6 +1,24 @@
 ---
 title: 솔벤인쇄기
+description: 대형 출력물, 실외용 스티커, 배너 등에 적합한 솔벤 인쇄기.
+keywords:
+  - 솔벤인쇄기
+  - 솔벤 인쇄
+  - 대형 출력
+  - 스티커
+  - 배너
+  - 알루미늄
+  - 아크릴
+  - 스테인리스 스틸
+  - 동
+sidebar_label: 솔벤인쇄기
 sidebar_position: 16
+tags:
+  - 솔벤인쇄
+  - 알루미늄
+  - 아크릴
+  - 스테인리스 스틸
+  - 동
 ---
 
 <div style={{textAlign:'center'}}>

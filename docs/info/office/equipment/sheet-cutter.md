@@ -1,6 +1,16 @@
 ---
 title: 시트지 커팅기
+description: 시트지, 필름, 라벨 등을 원하는 모양으로 정밀하게 커팅하는 장비.
+keywords:
+  - 시트지 커팅기
+  - 시트지커팅
+  - 커팅기
+  - 시트지
+sidebar_label: 시트지 커팅기
 sidebar_position: 17
+tags:
+  - 시트지커팅
+  - 시트지
 ---
 
 <div style={{textAlign:'center'}}>

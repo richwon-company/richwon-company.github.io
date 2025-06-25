@@ -1,6 +1,19 @@
 ---
 title: 샌딩기
+description: 명판, 아크릴, 금속 등 다양한 소재의 표면을 매끄럽게 다듬는 장비.
+keywords:
+  - 샌딩기
+  - 연마
+  - 명판
+  - 아크릴
+  - 금속
+sidebar_label: 샌딩기
 sidebar_position: 15
+tags:
+  - 연마
+  - 명판
+  - 아크릴
+  - 금속
 ---
 
 <div style={{textAlign:'center'}}>

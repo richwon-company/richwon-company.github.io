@@ -1,6 +1,28 @@
 ---
 title: UV 인쇄기
+description: 다양한 재질(아크릴, 금속, 플라스틱 등)에 고해상도로 인쇄할 수 있는 UV 인쇄기.
+keywords:
+  - UV 인쇄기
+  - UV 인쇄
+  - 평판 인쇄
+  - 알루미늄
+  - 아크릴
+  - 페놀
+  - PC
+  - 스테인리스 스틸
+  - 시트지
+  - 하이박스
+sidebar_label: UV 인쇄기
 sidebar_position: 10
+tags:
+  - UV 인쇄
+  - 알루미늄
+  - 아크릴
+  - 페놀
+  - PC
+  - 스테인리스 스틸
+  - 시트지
+  - 하이박스
 ---
 
 <div style={{textAlign:'center'}}>

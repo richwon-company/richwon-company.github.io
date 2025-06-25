@@ -1,6 +1,18 @@
 ---
 title: 그라보 소형조각기
+description: 소형 판재 및 부품을 정밀하게 가공할 수 있는 CNC 조각기.
+keywords:
+  - 그라보 소형조각기
+  - CNC 조각
+  - 알루미늄
+  - 아크릴
+  - 명판 제작
+sidebar_label: 그라보 소형조각기
 sidebar_position: 12
+tags:
+  - 조각
+  - 알루미늄
+  - 아크릴
 ---
 
 <div style={{textAlign:'center'}}>

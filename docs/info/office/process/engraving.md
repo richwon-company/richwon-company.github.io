@@ -9,7 +9,6 @@ keywords:
   - 페놀
 sidebar_label: 조각
 sidebar_position: 1
-image: /img/machine/그라보_대형조각기.png
 tags:
   - 조각
   - 알루미늄
@@ -21,20 +20,29 @@ CNC로 다양한 소재를 정밀하게 절삭·가공하는 기술입니다.
 
 ---
 
-## 적용 가능한 소재
-
-| 소재명   | 약어 |
-| -------- | ---- |
-| 알루미늄 | AL   |
-| 아크릴   | AC   |
-| 페놀     | PH   |
-
----
-
 ## 주요 용도/적용 예시
 
 - 명판, 태그, 패널 등 평판 제품 가공
 - 설비명판, 기계패널, 각종 산업용 부품 제작
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="al" label="알루미늄(AL)" default>
+    - 알루미늄 명판 (내구성 우수)
+  </TabItem>
+  <TabItem value="ac" label="아크릴(AC)">
+    - 아크릴 명판 (다양한 디자인)
+  </TabItem>
+  <TabItem value="ph" label="페놀(PH)">
+    - 페놀 명판 (절연/내열성)
+  </TabItem>
+</Tabs>
 
 ---
 

@@ -50,21 +50,21 @@ const config: Config = {
           // 여러 사이드바 지원
           routeBasePath: 'docs',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://blog.naver.com/rw3133',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        // blog: {
+        //   showReadingTime: true,
+        //   feedOptions: {
+        //     type: ['rss', 'atom'],
+        //     xslt: true,
+        //   },
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   // editUrl:
+        //   //   'https://blog.naver.com/rw3133',
+        //   // Useful options to enforce blogging best practices
+        //   onInlineTags: 'warn',
+        //   onInlineAuthors: 'warn',
+        //   onUntruncatedBlogPosts: 'warn',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -96,7 +96,7 @@ const config: Config = {
           label: '교육 자료',
           docId: 'intro',
         },
-        { to: '/blog', label: 'Blog', position: 'left' }
+        { href: 'https://blog.naver.com/rw3133', label: '블로그', position: 'left' }
       ],
     },
     footer: {

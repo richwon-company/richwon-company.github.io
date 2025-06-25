@@ -1,19 +1,14 @@
 ---
 title: 솔벤인쇄
-description: 솔벤트 잉크로 대형 출력물, 스티커, 배너 등에 인쇄하는 기술입니다.
+description: 솔벤트 잉크로 다양한 평판 소재에 인쇄하는 기술입니다.
 keywords:
   - 솔벤인쇄
-  - 솔벤트 인쇄
-  - 대형 출력
-  - 스티커
-  - 배너
   - 알루미늄
   - 아크릴
   - 스테인리스 스틸
   - 동
 sidebar_label: 솔벤인쇄
 sidebar_position: 3
-image: /img/machine/솔벤인쇄기.jpg
 tags:
   - 솔벤인쇄
   - 알루미늄
@@ -22,24 +17,32 @@ tags:
   - 동
 ---
 
-솔벤트 잉크로 대형 출력물, 스티커, 배너 등에 인쇄하는 기술입니다.
-
----
-
-## 적용 가능한 소재
-
-| 소재명           | 약어 |
-| ---------------- | ---- |
-| 알루미늄         | AL   |
-| 아크릴           | AC   |
-| 스테인리스 스틸  | SUS  |
-| 동(구리)         |      |
-
----
-
 ## 주요 용도/적용 예시
 
-- 대형 스티커, 배너, 실외용 안내판 제작
+- 명판, 안내판, 패널 등 평판 인쇄물 제작
+- 대량 생산에 적합
+
+---
+
+## 재질별 제품군
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs>
+  <TabItem value="al" label="알루미늄(AL)" default>
+    - 알루미늄 명판 (솔벤 인쇄)
+  </TabItem>
+  <TabItem value="ac" label="아크릴(AC)">
+    - 아크릴 명판 (솔벤 인쇄)
+  </TabItem>
+  <TabItem value="sus" label="스테인리스 스틸(SUS)">
+    - SUS 명판 (솔벤 인쇄)
+  </TabItem>
+  <TabItem value="cu" label="동(구리)">
+    - 동 명판 (솔벤 인쇄)
+  </TabItem>
+</Tabs>
 
 ---
 
