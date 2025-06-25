@@ -46,7 +46,9 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/richwon-company/wiki',
+            'https://github.com/richwon-company/richwon-company.github.io/tree/main',
+          // 여러 사이드바 지원
+          routeBasePath: 'docs',
         },
         blog: {
           showReadingTime: true,
@@ -85,6 +87,14 @@ const config: Config = {
           sidebarId: 'infoSidebar',
           position: 'left',
           label: '위키',
+          docId: 'intro',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'educationSidebar',
+          position: 'left',
+          label: '교육 자료',
+          docId: 'intro',
         },
         { to: '/blog', label: 'Blog', position: 'left' }
       ],
@@ -97,7 +107,11 @@ const config: Config = {
           items: [
             {
               label: '위키',
-              to: '/docs/intro',
+              to: '/docs/info/intro',
+            },
+            {
+              label: '교육 자료',
+              to: '/docs/education/intro',
             },
           ],
         },

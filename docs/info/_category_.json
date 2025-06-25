@@ -1,0 +1,8 @@
+{
+    "label": "정보 위키",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "리치원 컴퍼니의 기본 정보와 규정입니다."
+    }
+}
