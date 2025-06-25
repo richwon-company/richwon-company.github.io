@@ -46,7 +46,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/richwon-company/richwon-company.github.io/tree/main',
+            'https://github.com/richwon-company/richwon-company.github.io/edit/main',
           // 여러 사이드바 지원
           routeBasePath: 'docs',
         },

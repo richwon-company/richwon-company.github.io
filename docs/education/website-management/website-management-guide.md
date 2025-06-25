@@ -16,27 +16,37 @@ GitHub 웹 인터페이스를 통해 쉽게 내용을 수정하고 추가할 수
 ```
 docs/
 ├── info/                    # 회사 위키
-└── education/              # 교육 자료
-    ├── intro.md           # 교육 자료 소개
-    ├── machinery/         # 기계 관련
-    ├── safety/           # 안전 관련
-    ├── software/         # 소프트웨어 관련
+│   ├── intro.md             # 위키 소개
+│   ├── office/              # 사무실/공정/제품/장비 등
+│   │   ├── equipment/       # 장비별 문서
+│   │   ├── process/         # 가공/공정별 문서
+│   │   └── product/         # 제품별 문서
+│   └── ...
+└── education/               # 교육 자료
+    ├── intro.md             # 교육 자료 소개
+    ├── machinery/           # 기계 관련
+    ├── safety/              # 안전 관련
+    ├── software/            # 소프트웨어 관련
     └── website-management/  # 홈페이지 관리
 ```
 
-## 🔧 GitHub에서 직접 수정하기
+## 🔧 문서 수정 방법 (Docusaurus '페이지 편집' 버튼 활용)
+
 
 ### 1. 문서 수정 방법
 
-#### 기존 문서 수정
-1. GitHub 저장소 페이지 접속
-2. 수정할 `.md` 파일 클릭
-3. 연필 아이콘(✏️) 클릭하여 편집 모드 진입
-4. 내용 수정
-5. 하단 "Commit changes" 클릭하여 저장
+1. 수정하고 싶은 페이지로 이동
+2. 페이지 하단의 **'페이지 편집'** 버튼 클릭
+3. GitHub의 해당 파일 편집 페이지로 자동 이동
+4. 내용 수정 후, 하단의 "Commit changes" 클릭하여 저장
 
-#### 새 문서 추가
-1. 해당 폴더로 이동
+:::tip[팁]
+문서 작성/수정 시에는 반드시 [마크다운 작성 가이드](./markdown-guide)를 참고해 주세요.
+:::
+
+### 2. 새 문서 추가
+
+1. GitHub 저장소에서 해당 폴더로 이동
 2. "Add file" → "Create new file" 클릭
 3. 파일명 입력 (예: `new-document.md`)
 4. 내용 작성
