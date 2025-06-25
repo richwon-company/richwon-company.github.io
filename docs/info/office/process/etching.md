@@ -1,0 +1,58 @@
+---
+title: 부식
+description: 화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술입니다.
+keywords:
+  - 부식
+  - 에칭
+  - 스테인리스 스틸
+sidebar_label: 부식
+sidebar_position: 5
+image: /img/machine/부식_아이콘.png
+tags:
+  - 부식
+  - 스테인리스 스틸
+---
+
+화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술입니다.
+
+<div style={{
+  display: 'flex',
+  alignItems: 'center',
+  background: '#f3f6fa',
+  borderRadius: '12px',
+  padding: '1.2em 1em',
+  marginBottom: '1.5em',
+  boxShadow: '0 2px 8px #e0e7ef'
+}}>
+  <span className="badge badge--primary" style={{marginRight: '0.5em'}}>부식</span>
+  <span className="badge badge--info">스테인리스 스틸</span>
+  <div style={{marginTop: '0.3em', fontWeight: 500}}>화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술</div>
+</div>
+
+---
+
+## 적용 가능한 소재
+
+| 소재명           | 약어 |
+| ---------------- | ---- |
+| 스테인리스 스틸  | SUS  |
+
+---
+
+## 주요 용도/적용 예시
+
+- 스테인리스 명판, 패널, 특수 부품 가공
+
+---
+
+## 관련 장비
+
+(해당 장비 정보 필요 시 추가)
+
+---
+
+:::info 참고/유의사항
+- 화학약품 취급 시 안전수칙 준수 필수
+:::
+
+> 문의: 사장님 또는 담당자 
