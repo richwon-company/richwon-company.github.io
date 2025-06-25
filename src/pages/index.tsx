@@ -16,9 +16,8 @@ function HomepageHeader() {
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">
-          리치원 컴퍼니 내부 구성원을 위한 정보 위키 & 교육 자료<br />
-          "함께 성장하는 우리, 모두가 쉽게 찾는 지식의 공간"
+        <p className="hero__subtitle" style={{ fontSize: '1.15rem' }}>
+          누구나 쉽게, 현장 실무에 바로 도움되는 정보 위키 & 교육 자료
         </p>
       </div>
     </header>
@@ -30,7 +29,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="명판 제작 & 절연자재가공">
+      description="명판 제작 & 절연자재가공, 현장 실무자를 위한 정보 위키">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
