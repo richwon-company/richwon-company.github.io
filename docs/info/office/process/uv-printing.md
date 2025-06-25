@@ -27,26 +27,6 @@ tags:
 
 UV 경화 잉크로 다양한 소재에 직접 인쇄하는 평판 인쇄 기술입니다.
 
-<div style={{
-  display: 'flex',
-  alignItems: 'center',
-  background: '#f3f6fa',
-  borderRadius: '12px',
-  padding: '1.2em 1em',
-  marginBottom: '1.5em',
-  boxShadow: '0 2px 8px #e0e7ef'
-}}>
-  <span className="badge badge--primary" style={{marginRight: '0.5em'}}>UV 인쇄</span>
-  <span className="badge badge--info" style={{marginRight: '0.5em'}}>알루미늄</span>
-  <span className="badge badge--info" style={{marginRight: '0.5em'}}>아크릴</span>
-  <span className="badge badge--info" style={{marginRight: '0.5em'}}>페놀</span>
-  <span className="badge badge--info" style={{marginRight: '0.5em'}}>PC</span>
-  <span className="badge badge--info" style={{marginRight: '0.5em'}}>스테인리스 스틸</span>
-  <span className="badge badge--info" style={{marginRight: '0.5em'}}>시트지</span>
-  <span className="badge badge--info">하이박스</span>
-  <div style={{marginTop: '0.3em', fontWeight: 500}}>UV 경화 잉크로 다양한 소재에 직접 인쇄하는 평판 인쇄 기술</div>
-</div>
-
 ---
 
 ## 적용 가능한 소재

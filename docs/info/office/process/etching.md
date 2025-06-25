@@ -15,20 +15,6 @@ tags:
 
 화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술입니다.
 
-<div style={{
-  display: 'flex',
-  alignItems: 'center',
-  background: '#f3f6fa',
-  borderRadius: '12px',
-  padding: '1.2em 1em',
-  marginBottom: '1.5em',
-  boxShadow: '0 2px 8px #e0e7ef'
-}}>
-  <span className="badge badge--primary" style={{marginRight: '0.5em'}}>부식</span>
-  <span className="badge badge--info">스테인리스 스틸</span>
-  <div style={{marginTop: '0.3em', fontWeight: 500}}>화학약품으로 금속 표면을 선택적으로 녹여 무늬나 문자를 새기는 가공 기술</div>
-</div>
-
 ---
 
 ## 적용 가능한 소재
