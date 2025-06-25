@@ -1,6 +1,6 @@
 {
     "label": "홈페이지 관리",
-    "position": 4,
+    "position": 5,
     "link": {
         "type": "generated-index",
         "description": "회사 위키 및 교육 사이트 관리 방법과 마크다운 작성 가이드를 제공합니다."
