@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrich_wiki=self.webpackChunkrich_wiki||[]).push([[6914],{6914:(e,i,c)=>{c.d(i,{createGitGraphServices:()=>r.b});var r=c(7280);c(1028)}}]);
