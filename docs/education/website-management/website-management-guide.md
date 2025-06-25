@@ -16,13 +16,12 @@ GitHub 웹 인터페이스를 통해 쉽게 내용을 수정하고 추가할 수
 ```
 docs/
 ├── info/                    # 회사 위키
-├── education/              # 교육 자료
-│   ├── intro.md           # 교육 자료 소개
-│   ├── machinery/         # 기계 관련
-│   ├── safety/           # 안전 관련
-│   ├── software/         # 소프트웨어 관련
-│   └── website-management/  # 홈페이지 관리
-└── tutorial/             # 튜토리얼
+└── education/              # 교육 자료
+    ├── intro.md           # 교육 자료 소개
+    ├── machinery/         # 기계 관련
+    ├── safety/           # 안전 관련
+    ├── software/         # 소프트웨어 관련
+    └── website-management/  # 홈페이지 관리
 ```
 
 ## 🔧 GitHub에서 직접 수정하기
