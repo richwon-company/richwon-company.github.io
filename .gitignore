@@ -50,4 +50,4 @@ website/rspack-tracing.json
 website/bundler-cpu-profile.json
 website/profile.json.gz
 build
-.cursor/secret-rule.mdc
+.cursor/rules/secret-rule.mdc
