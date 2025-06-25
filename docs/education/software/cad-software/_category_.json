@@ -1,0 +1,8 @@
+{
+    "label": "CAD 프로그램",
+    "position": 1,
+    "link": {
+        "type": "generated-index",
+        "description": "CAD 프로그램 사용법과 자동화 도구를 학습합니다."
+    }
+}
