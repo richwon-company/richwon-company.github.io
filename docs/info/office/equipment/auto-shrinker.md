@@ -19,7 +19,7 @@ tags:
   <img src="/img/machine/반자동샤링기.png" alt="반자동샤링기" style={{maxWidth:'400px', borderRadius:'8px', boxShadow:'0 2px 8px #ccc'}} />
 </div>
 
-<span class="badge badge--primary">자동 절단</span>
+<span class="badge badge--primary">절단</span>
 <span class="badge badge--info">아크릴</span>
 <span class="badge badge--info">금속</span>
 

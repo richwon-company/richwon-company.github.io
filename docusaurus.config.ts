@@ -154,7 +154,7 @@ const config: Config = {
         // ... Your options.
         // `hashed` is recommended as long-term-cache of index file is possible.
         hashed: true,
-
+        indexBlog: false,
         // For Docs using Chinese, it is recomended to set:
         // language: ["en", "zh"],
 
