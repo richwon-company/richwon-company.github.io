@@ -45,7 +45,8 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           exclude: [
             '**/education/machinery/**',
-            '**/education/process/**'
+            '**/education/process/**',
+            '**/info/office/**'
           ],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.

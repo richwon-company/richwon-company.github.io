@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🏢 리치원 컴퍼니
+# 리치원 컴퍼니
 
 <div style={{ display: 'flex', alignItems: 'center', gap: '1.5rem', flexWrap: 'wrap' }}>
   <img src="/img/logo.svg" alt="리치원 컴퍼니 로고" width="90" />
@@ -23,7 +23,6 @@ sidebar_position: 1
 | **회사명**   | 리치원 컴퍼니                                                        |
 | **위치**     | 부산 강서구 유통단지1로 50 212동 107호 (부산티플렉스 2단지)           |
 | **사업**     | 명판 제작, 조각, 인쇄, 레이저 마킹 등                                 |
-| **구성원**   | 5~6명(가족 중심, 소규모)                                            |
 | **설립**     | 2014년                                                              |
 
 ---
