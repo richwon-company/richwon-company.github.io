@@ -2,7 +2,7 @@
 title: 마크다운 작성 가이드
 description: 홈페이지에서 글을 쓸 때 꼭 필요한 마크다운 사용법을 쉽게 안내합니다.
 sidebar_label: 마크다운 가이드
-sidebar_position: 1
+sidebar_position: 2
 tags:
   - 마크다운
   - 작성법

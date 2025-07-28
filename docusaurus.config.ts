@@ -43,6 +43,10 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          exclude: [
+            '**/education/machinery/**',
+            '**/education/process/**'
+          ],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:

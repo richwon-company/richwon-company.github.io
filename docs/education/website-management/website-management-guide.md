@@ -2,7 +2,7 @@
 title: 홈페이지 관리 가이드
 description: 홈페이지 글 수정, 새 글 추가, 이미지 첨부 등 관리 방법을 쉽게 안내합니다.
 sidebar_label: 홈페이지 관리
-sidebar_position: 2
+sidebar_position: 1
 tags:
   - 홈페이지 관리
   - 위키
