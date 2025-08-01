@@ -2,7 +2,7 @@
 title: 명판 자동화 자주 묻는 질문/문제 해결
 description: 각 단계별로 발생할 수 있는 문제와 해결법을 쉽게 안내합니다. 쉬운 언어, Q&A, 체크리스트 등으로 정리합니다.
 sidebar_label: 문제 해결/Q&A
-sidebar_position: 5
+sidebar_position: 6
 tags:
   - 명판자동화
   - 문제해결
